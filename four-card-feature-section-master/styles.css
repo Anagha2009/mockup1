@@ -1,0 +1,95 @@
+.style-text{
+ text-align: center;
+  color:hsl(229, 6%, 66%);
+  margin-top: 30px ;
+ padding: 10px;
+  
+}
+body{
+    background-color:hsl(0, 2%, 77%) ;
+    }
+.style-1{
+    color:hsl(234, 12%, 34%);
+}
+.style-2{
+    color:hsl(229, 6%, 66%);
+    font-size:15px;
+}
+ .card1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    background-color: #f1f1f1;
+    width:330px;
+    height:230px;
+    border-radius: 25px 25px 25px 25px;
+    box-shadow: 0px -5px 1px rgb(52, 240, 253);
+    cursor: pointer;
+  }
+  .card2{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    background-color: #f1f1f1;
+    width:330px;
+    height:230px;
+    border-radius: 25px 25px 25px 25px;
+    box-shadow: 0px -5px 1px rgb(253, 59, 52);
+    cursor: pointer;
+  }
+  .card3 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    background-color: #f1f1f1;
+    width:330px;
+    height:230px;
+    border-radius: 25px 25px 25px 25px;
+    box-shadow: 0px -5px 1px rgb(250, 248, 106);
+    cursor: pointer;
+  }
+  .card4 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    background-color: #f1f1f1;
+    width:330px;
+    height:230px;
+    border-radius: 25px 25px 25px 25px;
+    box-shadow: 0px -5px 1px rgb(52, 156, 253);
+    cursor: pointer;
+  }
+  .card-title{
+      text-align: left;
+      color:hsl(234, 12%, 34%);
+      padding: 0px 12px ;
+  }
+  .card-text{
+    text-align:left;
+    color:hsl(229, 6%, 66%);
+    padding-left: 12px;
+    
+  }
+  
+.image{
+    position: absolute;
+    right: 20px;
+    bottom:20px;
+} 
+
+.supervisor{
+    position:relative;
+    left:25px;
+    top:200px;
+}
+.team{
+    position:relative;
+    left:400px;
+    top:-200px;
+}
+.karma{
+    position:relative;
+    left:400px;
+    top:-150px;
+}
+.calculator{
+    position:relative;
+    left:765px;
+    top:-490px;
+}
